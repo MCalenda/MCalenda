@@ -5,10 +5,10 @@ Here you will found all my university projects and some other stuff done extra c
 
 Also, here is where you can find me:
 <p>
-  <a href=" linkedin.com/in/marco-calenda-315062193/">
+  <a href="https://www.linkedin.com/in/marco-calenda-315062193/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href=" linkedin.com/in/marco-calenda-315062193/">
+  <a href="https://gitlab.com/MarcoCalenda14">
     <img alt="Linkedin" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
 </p>

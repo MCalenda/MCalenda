@@ -1,7 +1,7 @@
 ### Hello everyone,
 my name is Marco Calenda I am twenty-five years old.
 I am a master degree student in Computer Science at *Università degli Studi di Salerno* in Italy curriculum Software Engineering and IT Management.
-Here you will found all my university projects and some other stuff done extra curricular by myself. Hope you will find interesting and useful this profile.
+Here you will find all my university projects and some other stuff done extra curricular by myself. Hope you will find interesting and useful this profile.
 
 Also, here is where you can find me:
 <p>

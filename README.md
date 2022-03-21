@@ -1,13 +1,10 @@
 ### Hello everyone,
-my name is Marco Calenda I am twenty-five years old.
-I am a master degree student in Computer Science at *Università degli Studi di Salerno* in Italy curriculum Software Engineering and IT Management.
-Here you will find all my university projects and some other stuff done extra curricular by myself. Hope you will find interesting and useful this profile.
+my name is Marco Calenda, I am twenty-five years old and I am a master degree student in Computer Science at *Università degli Studi di Salerno* in Italy, curriculum Software Engineering and IT Management. Here you will find all my university projects and some other stuff done extra curricular by myself. Hope you will find this profile interesting and useful.
 <br><br>
 <div align="center">
 	<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=MarcoCalenda14&theme=tokyonight"/>
 </div>
-
-<br><br><br>
+<br><br>
 Also, here is where you can find me:
 <div align="center">
 	<br><br>
@@ -24,5 +21,5 @@ Also, here is where you can find me:
 	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 	</a>
 </div>
-<br><br><br>
+<br><br>
 Many thanks and have a nice day.

@@ -7,13 +7,9 @@
 [![Followers](https://img.shields.io/github/followers/MCalenda?style=social&label=Follow&maxAge=2592000)](https://github.com/MCalenda?tab=followers)&nbsp;
 [![Stars](https://img.shields.io/github/stars/MCalenda?style=social&label=Star&maxAge=2592000)](https://GitHub.com/MCalenda/)
 
-<!--
-[![Watchers](https://img.shields.io/github/watchers/MCalenda/MCalenda?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/MCalenda/MCalenda/watchers)
--->
+<img src="resources/memoji1.png" width="200"/>
 
-<img src="https://github.com/MCalenda/MCalenda/blob/main/resources/memoji1.png?raw=true" lt="memoji1" height="200"/>
-
-## Hello there, I'm *Marco Calenda*
+## Hello there, I'm $\large\textcolor{orange}{\textbf{\textsf{Marco Calenda}}}$
 
 </div>
 
@@ -29,7 +25,8 @@ I’m currently learning:
 - **Software Engineering for Artificial Intelligence**
 - **Penetration Testing and Ethical Hacking**
 
-<img align="right" src="https://github.com/MCalenda/MCalenda/blob/main/resources/memoji3.png?raw=true" lt="memoji3" width="200"/>
+
+<img align="right" src="resources/memoji3.png" width="200"/>
 
 <div align = "right">
 
@@ -61,7 +58,14 @@ I’m currently learning:
 
 </div>
 
-<img align="left" src="https://github.com/MCalenda/MCalenda/blob/main/resources/memoji2.png?raw=true" lt="memoji2" width="200"/>
+<div align = "center">
+
+|![Stats](https://github-readme-stats.vercel.app/api?username=MCalenda&show_icons=true&theme=codeSTACKr)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCalenda&layout=compact&theme=codeSTACKr)|
+|-|-|
+
+</div>
+
+<img align="left" src="resources/memoji2.png" width="200"/>
 
 <div align = "left">
 
@@ -81,11 +85,22 @@ I’m currently learning:
 </div>
 
 <br>
-<br>
 
-<div align= "center">
+<div align="center">
 
-|![Stats](https://github-readme-stats.vercel.app/api?username=MCalenda&show_icons=true&theme=codeSTACKr)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCalenda&layout=compact&theme=codeSTACKr)|
-|-|-|
+<img src="resources/memoji4.png" width="200"/>
+
+## When I'm not programming...
 
 </div>
+
+...despite being the $\large\textcolor{green}{\textsf{Italian }}\textcolor{lightgray}{\textsf{stereo}}\textcolor{red}{\textsf{type}}$, I love to cook especially first dishes (pasta alla carbonara, lasagne, etc.) and meat of all kinds. I'm not good at pastry yet I love *cheesecakes*, *Sachertorte* and ice cream.
+
+> $\textcolor{orange}{\textbf{\textsf{Fun Fact}}}$ <br> *When I cook I like to do things well and thoroughly, no matter how much time it takes, just as when I'm programming!*
+
+My other interests are related to:
+- 🕹️ Videogames
+- ⚽️ Football, *not off the pitch*
+- 🪐 Astronomy and space travel
+- 📸 Photography, check my Instagram!
+- 🍿 TV series and movies, especially *Psychological thriller* and time-related, some of my favorite ones are Shutter Island, Inception, Dark, Sherlock, Death Note.

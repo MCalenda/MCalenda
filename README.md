@@ -7,7 +7,7 @@
 [![Followers](https://img.shields.io/github/followers/MCalenda?style=social&label=Follow&maxAge=2592000)](https://github.com/MCalenda?tab=followers)&nbsp;
 [![Stars](https://img.shields.io/github/stars/MCalenda?style=social&label=Star&maxAge=2592000)](https://GitHub.com/MCalenda/)
 
-<img src="resources/memoji1.png" width="200"/>
+<img src="resources/memoji1.png" width="250"/>
 
 ## Hello there, I'm $\large\textcolor{orange}{\textbf{\textsf{Marco Calenda}}}$
 
@@ -25,10 +25,9 @@ I’m currently learning:
 - **Software Engineering for Artificial Intelligence**
 - **Penetration Testing and Ethical Hacking**
 
+<div align= "center">
 
-<img align="right" src="resources/memoji3.png" width="200"/>
-
-<div align = "right">
+<img src="resources/memoji3.png" width="250"/>
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -56,18 +55,10 @@ I’m currently learning:
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D6)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=macos)&nbsp;
 
-</div>
-
-<div align = "center">
-
 |![Stats](https://github-readme-stats.vercel.app/api?username=MCalenda&show_icons=true&theme=codeSTACKr)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCalenda&layout=compact&theme=codeSTACKr)|
 |-|-|
 
-</div>
-
-<img align="left" src="resources/memoji2.png" width="200"/>
-
-<div align = "left">
+<img align="center" src="resources/memoji2.png" width="250"/>
 
 ## Contacts
 
@@ -82,13 +73,9 @@ I’m currently learning:
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-05122A?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/13917630/marco-calenda)&nbsp;
 [![Gitlab](https://img.shields.io/badge/GitLab-05122A?&style=flat&logo=gitlab)](https://gitlab.com/MCalenda)
 
-</div>
-
 <br>
 
-<div align="center">
-
-<img src="resources/memoji4.png" width="200"/>
+<img src="resources/memoji4.png" width="250"/>
 
 ## When I'm not programming...
 
@@ -96,7 +83,7 @@ I’m currently learning:
 
 ...despite being the $\large\textcolor{green}{\textsf{Italian }}\textcolor{lightgray}{\textsf{stereo}}\textcolor{red}{\textsf{type}}$, I love to cook especially first dishes (pasta alla carbonara, lasagne, etc.) and meat of all kinds. I'm not good at pastry yet I love *cheesecakes*, *Sachertorte* and ice cream.
 
-> $\textcolor{orange}{\textbf{\textsf{Fun Fact}}}$ <br> *When I cook I like to do things well and thoroughly, no matter how much time it takes, just as when I'm programming!*
+> 🔸 $\large\textcolor{orange}{\textbf{\textsf{Fun Fact}}}$ <br> *When I cook I like to do things well and thoroughly, no matter how much time it takes, just as when I'm programming!*
 
 My other interests are related to:
 - 🕹️ Videogames

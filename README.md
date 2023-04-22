@@ -43,7 +43,8 @@ I’m currently learning:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras&logoColor=D00000)&nbsp;
 ![scikitlearn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikitlearn&logoColor=F7931E)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&)&nbsp;
+![ExpressJS](https://img.shields.io/badge/Express.js-05122A?style=flat)
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack&logoColor=4A154B)&nbsp;

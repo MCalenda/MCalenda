@@ -9,21 +9,17 @@
 
 <img src="resources/memoji1.png" width="250"/>
 
-## Hello there, I'm $\large\textcolor{orange}{\textbf{\textsf{Marco Calenda}}}$
+## Hello there, I'm **Marco Calenda**
 
 </div>
 
-25 y.o. MSc student in Computer Science at [@Unisa](https://www.unisa.it), I'm interested in all the **Computer Science** aspects yet I'm in love with:
+26-year-old software engineer with an MSc in Computer Science from [@Unisa](https://www.unisa.it), I am interested in all the **Computer Science** aspects yet I'm in love with:
 - **🧠 Machine Learning**
 - **🗣 Natural Language Processing**
 - **🛠 Software Engineering**
 - **🚀 Quantum Computing**
 
-I’m currently learning:
-- **Blockchain & Smart Contracts**
-- **Quantum NLP**
-- **Software Engineering for Artificial Intelligence**
-- **Penetration Testing and Ethical Hacking**
+I am actively seeking employment opportunities so feel free to reach out to me via phone or email without any hesitation!
 
 <div align= "center">
 
@@ -64,8 +60,10 @@ I’m currently learning:
 ## Contacts
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mcalenda/)&nbsp;
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-05122A?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Marco-Calenda-3)&nbsp;
+<!---
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-05122A?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Marco-Calenda-3)&nbsp;)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-05122A?style=flat&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=klE6BCUAAAAJ)
+--->
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/M_Calenda)&nbsp;
@@ -82,9 +80,9 @@ I’m currently learning:
 
 </div>
 
-...despite being the $\large\textcolor{green}{\textsf{Italian }}\textcolor{lightgray}{\textsf{stereo}}\textcolor{red}{\textsf{type}}$, I love to cook especially first dishes (pasta alla carbonara, lasagne, etc.) and meat of all kinds. I'm not good at pastry yet I love *cheesecakes*, *Sachertorte* and ice cream.
+Despite being the italian stereotype, I love to cook especially first dishes (pasta alla carbonara, lasagne, etc.) and meat of all kinds. I'm not good at pastry yet I love *cheesecakes*, *Sachertorte* and ice cream.
 
-> 🔸 $\large\textcolor{orange}{\textbf{\textsf{Fun Fact}}}$ <br> *When I cook I like to do things well and thoroughly, no matter how much time it takes, just as when I'm programming!*
+> *When I cook I like to do things well and thoroughly, no matter how much time it takes, just as when I'm programming!*
 
 My other interests are related to:
 - 🕹️ Videogames
